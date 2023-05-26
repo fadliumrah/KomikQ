@@ -1,1 +1,2 @@
 # KomikQ
+# Fadli
